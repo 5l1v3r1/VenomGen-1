@@ -1,7 +1,7 @@
 #!/bin/bash
 # VenomGen v1.1: Payload Generator and WAN Listener 
-# Coded by: @NetSecNow
-# Github: https://github.com/xNetSecNowx/VenomGen
+# Coded by: @Hak9
+# Github: https://github.com/xHak9x/VenomGen
 
 trap 'printf "\n";stop' 2
 
@@ -14,7 +14,7 @@ printf "\e[1;77m   \ V /  __/ | | | (_) | | | | | |\e[0m\e[1;92m |_| |  __/ | | 
 printf "\e[1;77m    \_/ \___|_| |_|\___/|_| |_| |_|\e[0m\e[1;92m\____|\___|_| |_| \e[0m\e[1;77mv1.0\e[0m\n"
 printf "\n"
 printf "       \e[1;93m.:. \e[0m\e[1;77mPayload Generator and WAN Listener \e[0m\e[1;93m.:.\e[0m\n"                                                    
-printf "                           \e[1;77mby @NetSecNow\e[0m\n"
+printf "                           \e[1;77mby @Hak9\e[0m\n"
 printf "\n"
 }
 
